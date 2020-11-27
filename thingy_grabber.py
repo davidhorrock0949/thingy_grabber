@@ -20,6 +20,7 @@ import glob
 import shutil
 from io import StringIO
 from html.parser import HTMLParser
+import json
 
 SEVENZIP_FILTERS = [{'id': py7zr.FILTER_LZMA2}]
 
@@ -42,6 +43,8 @@ API_THING_DETAILS = API_BASE + "/things/{}/?" + ACCESS_QP
 API_THING_FILES = API_BASE + "/things/{}/files/?" + ACCESS_QP
 API_THING_IMAGES = API_BASE + "/things/{}/images/?" + ACCESS_QP
 API_THING_DOWNLOAD = "/download/?" + ACCESS_QP
+API_THING_ANCESTORS = API_BASE + "/things/{}/ancestors/?" + ACCESS_QP
+API_THING_COMMENTS = API_BASE + "/things/{}/threaded-comments/?" + ACCESS_QP
 
 DOWNLOADER_COUNT = 1
 RETRY_COUNT = 3
@@ -362,6 +365,8 @@ class Thing:
         self.time_stamp = None
         self._file_links = FileLinks()
         self._image_links = []
+        self._ancestors = []
+        self._comments = {}
 
     @classmethod
     def from_thing_id(cls, thing_id):
@@ -450,6 +455,65 @@ class Thing:
                     FileLink(link['name'], datestamp, link['url'] + API_THING_DOWNLOAD.format(api_key)))
             except ValueError:
                 logging.error(link['date'])
+
+
+        comments_url = API_THING_COMMENTS.format(self.thing_id,api_key)
+        try:
+            current_req = SESSION.get(comments_url)
+        except requests.exceptions.ConnectionError as error:
+            logging.error("Unable to connect for thing {}: {}".format(
+                self.thing_id, error))
+            return
+
+        if current_req.status_code != 200:
+            logging.error(
+                "Unexpected status code {} for {}: {}".format(current_req.status_code, sanitise_url(comments_url),
+                                                              current_req.text))
+            return
+
+        comments_list = current_req.json()
+#        print(comments_list)
+        if not comments_list:
+            logging.warning(
+                "No comments found for thing {} - probably thingiverse being iffy as this seems unlikely".format(
+                    self.thing_id))
+
+#        for comment in comments_list['comments']:
+#            logging.debug("parsing comment: {}".format(comment))
+#            print(comment)
+#            self._comments.append(comment)
+        self._comments=comments_list
+        with open('comments.json','w') as outfile: json.dump(comments_list,outfile)
+
+        ancestors_url = API_THING_ANCESTORS.format(self.thing_id, api_key)
+        try:
+            current_req = SESSION.get(ancestors_url)
+        except requests.exceptions.ConnectionError as error:
+            logging.error("Unable to connect for thing {}: {}".format(
+                self.thing_id, error))
+            return
+
+        if current_req.status_code != 200:
+            logging.error(
+                "Unexpected status code {} for {}: {}".format(current_req.status_code, sanitise_url(comments_url),
+                                                              current_req.text))
+            return
+
+        ancestors_list = current_req.json()
+        #        print(comments_list)
+        if not ancestors_list:
+            logging.warning(
+                "No ancestors found for thing {} - probably thingiverse being iffy as this seems unlikely".format(
+                    self.thing_id))
+
+        #        for comment in comments_list['comments']:
+        #            logging.debug("parsing comment: {}".format(comment))
+        #            print(comment)
+        #            self._comments.append(comment)
+        self._ancestors = comments_list
+        with open('ancestors.json', 'w') as outfile:
+            json.dump(ancestors_list, outfile)
+
 
         # Finally get the image links
         image_url = API_THING_IMAGES.format(self.thing_id, api_key)
