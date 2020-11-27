@@ -1,0 +1,987 @@
+{
+    "comments": {
+        "3705752": [{
+                "id": 4941407,
+                "add_date": "2020-10-08 17:22:19",
+                "modified_date": null,
+                "body": "Hi, could I get that link to the cut helmet? ",
+                "user_id": 3424206,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4941407",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3705752,
+                "parent_user_name": "DannyEss87",
+                "parent_url": "/thing:4599252/comments#comment-3705752"
+            }, {
+                "id": 3706114,
+                "add_date": "2020-09-27 09:10:17",
+                "modified_date": null,
+                "body": "Yes, it would be nice, because it takes a long time to print and it will take a lot of material to support",
+                "user_id": 3778314,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706114",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3705752,
+                "parent_user_name": "DannyEss87",
+                "parent_url": "/thing:4599252/comments#comment-3705752"
+            }, {
+                "id": 3705859,
+                "add_date": "2020-09-27 02:56:27",
+                "modified_date": null,
+                "body": "nice! could you upload on \"remix it\"?\nit will help to many others!",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3705859",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3705752,
+                "parent_user_name": "DannyEss87",
+                "parent_url": "/thing:4599252/comments#comment-3705752"
+            }
+        ],
+        "": [{
+                "id": 4940688,
+                "add_date": "2020-10-07 21:35:30",
+                "modified_date": null,
+                "body": "Nice job dude, wish i had a big enough printer to print this on though.",
+                "user_id": 3281251,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4940688",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3717343,
+                "add_date": "2020-10-05 07:28:52",
+                "modified_date": null,
+                "body": "Any idea what the weight is on this because I have to print this at a library and the cost is per gram ",
+                "user_id": 3974724,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3717343",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3716520,
+                "add_date": "2020-10-04 17:07:03",
+                "modified_date": null,
+                "body": "Does anyone know how to measure head size to decide the scale of printing? I want to print for my son. Thanks~",
+                "user_id": 3519005,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716520",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3716343,
+                "add_date": "2020-10-04 14:47:43",
+                "modified_date": null,
+                "body": "Bonjour et merci pour ce fichier j'ai diminu\u00e9 a 85% mais j'ai un soucis a l'assemblage, pourtant quand je compare mes dimensions de ce que j'ai imprimer au fichier via cura r\u00e9duit a 85% ca correspond je ne comprend pas ou je me suis tromp\u00e9, j'ai une photo mais je ne peux pas la post\u00e9 quelqu'un pourrait m'aider s'il vous plait ",
+                "user_id": 2996976,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716343",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3715261,
+                "add_date": "2020-10-03 17:06:38",
+                "modified_date": null,
+                "body": "how do I get the print files?\n",
+                "user_id": 3969611,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3715261",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3712272,
+                "add_date": "2020-10-01 13:15:45",
+                "modified_date": null,
+                "body": "how do i put it together any hardware ",
+                "user_id": 2869680,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3712272",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3707823,
+                "add_date": "2020-09-28 12:10:57",
+                "modified_date": null,
+                "body": "Scale?\n",
+                "user_id": 3662140,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3707823",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3707068,
+                "add_date": "2020-09-27 21:59:53",
+                "modified_date": null,
+                "body": "supports???",
+                "user_id": 1130697,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3707068",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3706351,
+                "add_date": "2020-09-27 13:29:30",
+                "modified_date": null,
+                "body": "What is the best orientation for printing the mask and helmet, and can you print without full support in the middle.  I have tried several attempts at the mask and the tapered points break away from support when printing I am thinking I may need to cut the model",
+                "user_id": 2978480,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706351",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3706195,
+                "add_date": "2020-09-27 10:39:40",
+                "modified_date": null,
+                "body": "Printed this out great all apart from the helmet.\nFailed twice now in different rotations and the support is immense.\nShame as it looks cool so far.\nCan the face plate be articulated?",
+                "user_id": 2629491,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706195",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3705755,
+                "add_date": "2020-09-27 01:54:16",
+                "modified_date": null,
+                "body": "This, dear Sir, is the best model i've seen so far, and I've seen many until now :) \nI just had to cut the Helmet and mask itself into 4 and 5 pieces, so its better printable, with less Supportstructure (after I've calculated 2/8 of the weight of the Helmet would be Support Structure)",
+                "user_id": 2441144,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3705755",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3704946,
+                "add_date": "2020-09-26 13:51:26",
+                "modified_date": null,
+                "body": "Can you explain how you printed the helmet itself? is it possible to ask you to cut it into pieces?",
+                "user_id": 3778314,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3704946",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3703840,
+                "add_date": "2020-09-25 16:56:10",
+                "modified_date": null,
+                "body": "hello excellent model !! how many rolls of filament did you go through to make this?",
+                "user_id": 1130697,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3703840",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3702517,
+                "add_date": "2020-09-24 18:54:56",
+                "modified_date": null,
+                "body": "Can you please create a part in which the eyes and the eyelines are united in one part? I want to print these two in a translucent material and I don't get the STL parts fused really well.",
+                "user_id": 1838582,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3702517",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3701949,
+                "add_date": "2020-09-24 11:48:09",
+                "modified_date": null,
+                "body": "Hi! Amazing model! What infill value is the best?\n",
+                "user_id": 3706311,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3701949",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3700600,
+                "add_date": "2020-09-23 11:32:04",
+                "modified_date": null,
+                "body": "Hello. First for all great model.\nJust a question: The measurements at the image is for the inside or the outside ???",
+                "user_id": 2152025,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3700600",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3695964,
+                "add_date": "2020-09-20 01:33:26",
+                "modified_date": null,
+                "body": "Your upload appears to be corrupted. back, chin, eyeline, helmet all show up as 0 bytes size.",
+                "user_id": 2971634,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3695964",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3695465,
+                "add_date": "2020-09-19 17:29:03",
+                "modified_date": null,
+                "body": "Great design, and happy to find eyes :) :)\nWhat is your advise to find and Add articulation hinge to open and close the face ?\n\nThanks a lot !",
+                "user_id": 58625,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3695465",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3694128,
+                "add_date": "2020-09-18 15:14:10",
+                "modified_date": null,
+                "body": "Is it wearable?\nThank you in advance, great design\n",
+                "user_id": 3709135,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3694128",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3693637,
+                "add_date": "2020-09-18 05:12:18",
+                "modified_date": null,
+                "body": "this looks great just one question does the face mask move or is it all in place?\n",
+                "user_id": 1677943,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3693637",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }, {
+                "id": 3692810,
+                "add_date": "2020-09-17 14:58:36",
+                "modified_date": null,
+                "body": "Cool!  Thanks\n",
+                "user_id": 972659,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3692810",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": "",
+                "parent_user_name": "",
+                "parent_url": ""
+            }
+        ],
+        "3705755": [{
+                "id": 4940635,
+                "add_date": "2020-10-07 20:08:14",
+                "modified_date": null,
+                "body": "Is there any way you can cut it into pieces so I can print on creality ld-002r resin printer? ",
+                "user_id": 3363718,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4940635",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3705755,
+                "parent_user_name": "DannyEss87",
+                "parent_url": "/thing:4599252/comments#comment-3705755"
+            }
+        ],
+        "3717343": [{
+                "id": 4674480,
+                "add_date": "2020-10-07 09:29:12",
+                "modified_date": null,
+                "body": "Download any Slicer like Cura or Prusaslicer, past all objects inside it and slice it with the settings. It will give you a good approximation of the material needed",
+                "user_id": 3249718,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4674480",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3717343,
+                "parent_user_name": "DrPsych15",
+                "parent_url": "/thing:4599252/comments#comment-3717343"
+            }, {
+                "id": 4674308,
+                "add_date": "2020-10-07 04:20:11",
+                "modified_date": null,
+                "body": "I think about 700-800g. depends on how much support you'll need ",
+                "user_id": 3749931,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4674308",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3717343,
+                "parent_user_name": "DrPsych15",
+                "parent_url": "/thing:4599252/comments#comment-3717343"
+            }, {
+                "id": 4674296,
+                "add_date": "2020-10-07 03:49:10",
+                "modified_date": null,
+                "body": "Just put it into Ultimaker Cura and slice it then it will show you are approximate amount",
+                "user_id": 3944558,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4674296",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3717343,
+                "parent_user_name": "DrPsych15",
+                "parent_url": "/thing:4599252/comments#comment-3717343"
+            }, {
+                "id": 4537542,
+                "add_date": "2020-10-06 18:34:09",
+                "modified_date": "2020-10-06 18:34:27",
+                "body": "Comment has been deleted",
+                "user_id": 2230806,
+                "is_deleted": true,
+                "url": "/thing:4599252/comments#comment-4537542",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3717343,
+                "parent_user_name": "DrPsych15",
+                "parent_url": "/thing:4599252/comments#comment-3717343"
+            }, {
+                "id": 3863435,
+                "add_date": "2020-10-05 18:27:23",
+                "modified_date": null,
+                "body": "you need to download and slice it. depending on supports the overall weight will change. ",
+                "user_id": 3945166,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3863435",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3717343,
+                "parent_user_name": "DrPsych15",
+                "parent_url": "/thing:4599252/comments#comment-3717343"
+            }
+        ],
+        "3716520": [{
+                "id": 4674294,
+                "add_date": "2020-10-07 03:47:57",
+                "modified_date": null,
+                "body": "They have the measurements in one of the pictures for 100% scale. So if you just measure his head and compare it to the size of the measurement given. Then just take the measurements that are given and divide them by 100 to find what 1% is. Then just add them up until you get to around his head hight (probably a good idea to make it a it bigger).",
+                "user_id": 3944558,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-4674294",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3716520,
+                "parent_user_name": "halfdome",
+                "parent_url": "/thing:4599252/comments#comment-3716520"
+            }, {
+                "id": 3716967,
+                "add_date": "2020-10-04 22:59:55",
+                "modified_date": null,
+                "body": "see photo of things detail. i recommend scale 90~100% for kids",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716967",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3716520,
+                "parent_user_name": "halfdome",
+                "parent_url": "/thing:4599252/comments#comment-3716520"
+            }
+        ],
+        "3712272": [{
+                "id": 3716979,
+                "add_date": "2020-10-04 23:07:12",
+                "modified_date": null,
+                "body": "i recommend use magnet at mask and back. other parts assemble with glue or weld",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716979",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3712272,
+                "parent_user_name": "Aoam13",
+                "parent_url": "/thing:4599252/comments#comment-3712272"
+            }, {
+                "id": 3713014,
+                "add_date": "2020-10-01 21:35:35",
+                "modified_date": null,
+                "body": "I am also interested to know how to put parts together. What is your advice ? Glue ?\nThank you",
+                "user_id": 3542764,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3713014",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3712272,
+                "parent_user_name": "Aoam13",
+                "parent_url": "/thing:4599252/comments#comment-3712272"
+            }
+        ],
+        "3715261": [{
+                "id": 3716977,
+                "add_date": "2020-10-04 23:03:52",
+                "modified_date": null,
+                "body": "dont you see the \"thing files\" button?",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716977",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3715261,
+                "parent_user_name": "Brizle13",
+                "parent_url": "/thing:4599252/comments#comment-3715261"
+            }
+        ],
+        "3716343": [{
+                "id": 3716973,
+                "add_date": "2020-10-04 23:02:21",
+                "modified_date": null,
+                "body": "Je n'utilise pas de cura.  Veuillez expliquer en d\u00e9tail quelle partie est le probl\u00e8me",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3716973",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3716343,
+                "parent_user_name": "Christophef59",
+                "parent_url": "/thing:4599252/comments#comment-3716343"
+            }
+        ],
+        "3707823": [{
+                "id": 3714685,
+                "add_date": "2020-10-03 07:24:40",
+                "modified_date": null,
+                "body": "There is a picture inside the file that shows the measures of %100 scale.",
+                "user_id": 2101316,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3714685",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3707823,
+                "parent_user_name": "shieldhydralola",
+                "parent_url": "/thing:4599252/comments#comment-3707823"
+            }
+        ],
+        "3713014": [{
+                "id": 3713864,
+                "add_date": "2020-10-02 15:42:06",
+                "modified_date": "2020-10-02 15:46:22",
+                "body": "Hey all,\n\nI would not recommend using glue. When it comes time to sand or modify your material, or you need to flex it while putting it on, the glue being far more ridged and will likely cause issues. For example breaking or sheering off paint when flexed. Instead I would recommend welding your pieces together.\n\n---\nPLA Welding (or TPU, or PETG)\n---\n\n1) Tape the parts snugly together on the good side (side you do not want to ruin) as to prevent movement.\n2) Use a soldering iron, ideally set to 190-220c (depending on your material) to melt/cut a groove between the two pieces on the hidden side of the two parts you want to connect.\n3) Lay down additional PLA in the groove and use the soldering iron to melt and smooth the PLA across the two pieces. This will form a permanent bond as strong as the original print, sometimes stronger between your chosen pieces.\n\nCheck out this good video explanation by Nikko Industries here: https://www.youtube.com/watch?v=AqK6V1zVi5s&t=162s\nThis is for TPU but it works just the same fpr PLA and for PETG.\n\n---\nWARNING\n---\nThese Plastics can be toxic when vaporized. Aka, when you use a temperature higher than necessary to deform the plastics and they start to burn/smoke. Toxicity varies with the material. PLA is among the least toxic but you should still take precautions. For this reason it is recommended to do your welding outdoors or wear a respirator. \n",
+                "user_id": 3904325,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3713864",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3713014,
+                "parent_user_name": "mattx38",
+                "parent_url": "/thing:4599252/comments#comment-3713014"
+            }
+        ],
+        "3706195": [{
+                "id": 3710307,
+                "add_date": "2020-09-29 22:40:33",
+                "modified_date": "2020-09-29 22:42:40",
+                "body": "I had good luck printing the helmet with the back side on the plate (rotated ~90 degrees with the open end up) with a raft and tree supports everywhere. Because of the orientation, it only used around 250-300g of filament and a day and a half of printing. There was some clean up where the raft contacted outside and supports inside. ",
+                "user_id": 3838345,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3710307",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3706195,
+                "parent_user_name": "mickm71",
+                "parent_url": "/thing:4599252/comments#comment-3706195"
+            }
+        ],
+        "3695465": [{
+                "id": 3706196,
+                "add_date": "2020-09-27 10:40:20",
+                "modified_date": null,
+                "body": "I am also interested in this.\n",
+                "user_id": 2629491,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706196",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3695465,
+                "parent_user_name": "elicend",
+                "parent_url": "/thing:4599252/comments#comment-3695465"
+            }
+        ],
+        "3706128": [{
+                "id": 3706129,
+                "add_date": "2020-09-27 09:32:32",
+                "modified_date": null,
+                "body": "great!! thanks a lot",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706129",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3706128,
+                "parent_user_name": "DannyEss87",
+                "parent_url": "/thing:4599252/comments#comment-3706128"
+            }
+        ],
+        "3705859": [{
+                "id": 3706128,
+                "add_date": "2020-09-27 09:28:14",
+                "modified_date": null,
+                "body": "Done :)",
+                "user_id": 2441144,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3706128",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3705859,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3705859"
+            }
+        ],
+        "3704946": [{
+                "id": 3705752,
+                "add_date": "2020-09-27 01:52:49",
+                "modified_date": null,
+                "body": "I Just cutted it into several pieces, so it is printible on any Printer like anycubic i3 Mega. If youre interested, I'd upload it into my drive and send you an invite link",
+                "user_id": 2441144,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3705752",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3704946,
+                "parent_user_name": "gen4ikyssss",
+                "parent_url": "/thing:4599252/comments#comment-3704946"
+            }
+        ],
+        "3704524": [{
+                "id": 3704643,
+                "add_date": "2020-09-26 08:07:08",
+                "modified_date": null,
+                "body": "many thanks",
+                "user_id": 1838582,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3704643",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3704524,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3704524"
+            }
+        ],
+        "3702517": [{
+                "id": 3704524,
+                "add_date": "2020-09-26 05:10:48",
+                "modified_date": null,
+                "body": "eyes+eyeline.stl file was uploaded right now~!",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3704524",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3702517,
+                "parent_user_name": "Hedo",
+                "parent_url": "/thing:4599252/comments#comment-3702517"
+            }, {
+                "id": 3704317,
+                "add_date": "2020-09-26 00:33:10",
+                "modified_date": null,
+                "body": "if you rase the temperature of the printed the plastic will fuse better",
+                "user_id": 2953419,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3704317",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3702517,
+                "parent_user_name": "Hedo",
+                "parent_url": "/thing:4599252/comments#comment-3702517"
+            }
+        ],
+        "3700613": [{
+                "id": 3700712,
+                "add_date": "2020-09-23 13:15:23",
+                "modified_date": null,
+                "body": "ok thank you for your time",
+                "user_id": 2152025,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3700712",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3700613,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3700613"
+            }
+        ],
+        "3700600": [{
+                "id": 3700613,
+                "add_date": "2020-09-23 11:44:15",
+                "modified_date": null,
+                "body": "All are inside figures.the thickness of the shell is 3.5mm",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3700613",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3700600,
+                "parent_user_name": "xakerofxanthi",
+                "parent_url": "/thing:4599252/comments#comment-3700600"
+            }
+        ],
+        "3699455": [{
+                "id": 3699843,
+                "add_date": "2020-09-22 19:39:19",
+                "modified_date": null,
+                "body": "Thanks and sorry; when I asked, the images did not show properly. I hope TV will recover from the update.\nBTW: Looks good. I hope I'll print one of these helmets one day.",
+                "user_id": 1181704,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3699843",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3699455,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3699455"
+            }
+        ],
+        "3699179": [{
+                "id": 3699455,
+                "add_date": "2020-09-22 15:09:26",
+                "modified_date": null,
+                "body": "check things detaile image. i uploaded fit size image",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3699455",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3699179,
+                "parent_user_name": "7eggert",
+                "parent_url": "/thing:4599252/comments#comment-3699179"
+            }
+        ],
+        "3694464": [{
+                "id": 3699179,
+                "add_date": "2020-09-22 11:02:31",
+                "modified_date": null,
+                "body": "What is the size of your head?\nhttps://www.wikihow.com/Measure-Helmet-Size",
+                "user_id": 1181704,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3699179",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3694464,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3694464"
+            }, {
+                "id": 3694574,
+                "add_date": "2020-09-18 21:31:01",
+                "modified_date": null,
+                "body": "thanks a lot! \n<3",
+                "user_id": 3709135,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3694574",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3694464,
+                "parent_user_name": "max7th",
+                "parent_url": "/thing:4599252/comments#comment-3694464"
+            }
+        ],
+        "3694128": [{
+                "id": 3699177,
+                "add_date": "2020-09-22 11:00:17",
+                "modified_date": "2020-09-22 11:00:40",
+                "body": "Comment has been deleted",
+                "user_id": 1181704,
+                "is_deleted": true,
+                "url": "/thing:4599252/comments#comment-3699177",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3694128,
+                "parent_user_name": "tommasodidonato",
+                "parent_url": "/thing:4599252/comments#comment-3694128"
+            }, {
+                "id": 3694464,
+                "add_date": "2020-09-18 19:50:25",
+                "modified_date": null,
+                "body": "yes this was designed to wear ",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3694464",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3694128,
+                "parent_user_name": "tommasodidonato",
+                "parent_url": "/thing:4599252/comments#comment-3694128"
+            }
+        ],
+        "3692810": [{
+                "id": 3696197,
+                "add_date": "2020-09-20 07:23:08",
+                "modified_date": null,
+                "body": "looks like the file was taken down, do you still have the files? I want to print this helmet.\n",
+                "user_id": 381650,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3696197",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3692810,
+                "parent_user_name": "STIG_",
+                "parent_url": "/thing:4599252/comments#comment-3692810"
+            }, {
+                "id": 3694467,
+                "add_date": "2020-09-18 19:50:41",
+                "modified_date": null,
+                "body": ":)",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3694467",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3692810,
+                "parent_user_name": "STIG_",
+                "parent_url": "/thing:4599252/comments#comment-3692810"
+            }
+        ],
+        "3695964": [{
+                "id": 3695971,
+                "add_date": "2020-09-20 01:37:27",
+                "modified_date": null,
+                "body": "sorry, i'm modifying model now. please wait few days",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3695971",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3695964,
+                "parent_user_name": "Phaze357",
+                "parent_url": "/thing:4599252/comments#comment-3695964"
+            }
+        ],
+        "3693637": [{
+                "id": 3693693,
+                "add_date": "2020-09-18 06:27:31",
+                "modified_date": null,
+                "body": "the model dosen't have moving part. but if you have some technic, can make to move",
+                "user_id": 878189,
+                "is_deleted": false,
+                "url": "/thing:4599252/comments#comment-3693693",
+                "needs_moderation": 0,
+                "assets": [],
+                "parent_id": 3693637,
+                "parent_user_name": "phasemet",
+                "parent_url": "/thing:4599252/comments#comment-3693637"
+            }
+        ]
+    },
+    "users": {
+        "3424206": {
+            "user_name": "Marne19k",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3281251": {
+            "user_name": "The_Osprey",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3363718": {
+            "user_name": "lrios1202",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_maker_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3249718": {
+            "user_name": "Stiopare",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_maker_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3749931": {
+            "user_name": "DoktorMorten",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3944558": {
+            "user_name": "Elijah5633",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2230806": {
+            "user_name": "Benfsdr1",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_maker_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3945166": {
+            "user_name": "AKKAIDEN87",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3974724": {
+            "user_name": "DrPsych15",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "878189": {
+            "user_name": "max7th",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3519005": {
+            "user_name": "halfdome",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_engineer_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2996976": {
+            "user_name": "Christophef59",
+            "user_avatar": "https://cdn.thingiverse.com/assets/2f/6f/f4/6e/74/orc.jpg",
+            "is_admin": 0
+        },
+        "3969611": {
+            "user_name": "Brizle13",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_engineer_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2101316": {
+            "user_name": "azateris",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3904325": {
+            "user_name": "Wpnx330",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3542764": {
+            "user_name": "mattx38",
+            "user_avatar": "https://cdn.thingiverse.com/assets/e5/77/ad/80/87/11052431_811730928920915_8102293039703864766_n.png",
+            "is_admin": 0
+        },
+        "2869680": {
+            "user_name": "Aoam13",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_designer_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3838345": {
+            "user_name": "aek3755",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3662140": {
+            "user_name": "shieldhydralola",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_student_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "1130697": {
+            "user_name": "sw1ft2u",
+            "user_avatar": "https://cdn.thingiverse.com/assets/ae/d8/a7/95/36/82829915_621049302031711_389377835225055232_o.jpg",
+            "is_admin": 0
+        },
+        "2978480": {
+            "user_name": "mapw7821",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2629491": {
+            "user_name": "mickm71",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_teacher_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2441144": {
+            "user_name": "DannyEss87",
+            "user_avatar": "https://cdn.thingiverse.com/renders/bc/be/c4/95/61/6660bf8bb145b856fcfcdfd8a7fae827_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3778314": {
+            "user_name": "gen4ikyssss",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "1838582": {
+            "user_name": "Hedo",
+            "user_avatar": "https://cdn.thingiverse.com/assets/2a/95/ca/67/ed/20200120_190357.gif",
+            "is_admin": 0
+        },
+        "2953419": {
+            "user_name": "YOYOMANs",
+            "user_avatar": "https://cdn.thingiverse.com/assets/18/d4/5a/0a/16/aizawa.jpg",
+            "is_admin": 0
+        },
+        "3706311": {
+            "user_name": "TheOldStump",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2152025": {
+            "user_name": "xakerofxanthi",
+            "user_avatar": "https://cdn.thingiverse.com/renders/26/ec/1e/01/69/89ee2d5b5c33df4c4cd5b10edfc777d1_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "1181704": {
+            "user_name": "7eggert",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "381650": {
+            "user_name": "hmackowski",
+            "user_avatar": "https://cdn.thingiverse.com/renders/7b/78/42/d0/80/0-4-3_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "2971634": {
+            "user_name": "Phaze357",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "58625": {
+            "user_name": "elicend",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "3709135": {
+            "user_name": "tommasodidonato",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "1677943": {
+            "user_name": "phasemet",
+            "user_avatar": "https://cdn.thingiverse.com/site/img/default/avatar/avatar_default_thumb_small.jpg",
+            "is_admin": 0
+        },
+        "972659": {
+            "user_name": "STIG_",
+            "user_avatar": "https://cdn.thingiverse.com/renders/ce/16/94/ee/61/433389a243129c757128de277d99d0a4_thumb_small.jpg",
+            "is_admin": 0
+        }
+    }
+}
